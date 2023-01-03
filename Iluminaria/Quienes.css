@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box   !important;
+    font-family: 'Montserrat', sans-serif   !important;
+}
+
+i{
+    color: #fff !important;
+}
+
+p{
+    color: #fff !important;
+}
+
+.quienes{
+    text-align: center;
+    border-bottom: 2px solid black;
+
+}
+
+#imglogo {
+    width: 200px !important;
+}
+
+#micarrusel #mip p {
+    color:black !important; 
+}
+
+
+body {
+    /*background-image: url(fondo.jpg!d)   !important;*/
+    background-color: #fff;
+    background-repeat: none   !important;
+    background-size: cover   !important;
+    background-position: center   !important;
+    height: 100vh   !important;
+}
+
+.imglogo{
+    width: 200px;
+}
+
+#miheader{
+    background-color: rgb(0, 0, 0) !important;
+}
+
+
+.card{
+    width: 300px !important;
+}
+
+
+
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.card{
+    background-color: rgba(255, 255, 255, 0.459) !important;
+    text-align: center !important;
+}
+
+#conte-carru{
+width: 800px !important;
+
+}
+
+
+#dentrodelmenu a:hover {
+    color: rgb(248, 92, 44) !important;
+}
+
+#misredes a:hover {
+    color: rgb(248, 92, 44) !important;
+}
+
+
+
+#mip{
+background-color: rgba(255, 255, 255, 0.336);
+}

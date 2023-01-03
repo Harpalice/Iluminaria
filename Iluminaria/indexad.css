@@ -1,0 +1,38 @@
+#mitexto{
+    text-align: center !important;
+}
+
+#contbody{
+    padding-top: 2cm;
+    
+}
+
+#milogo img{
+    height: 50px !important;
+}
+
+body{
+    background-color: rgba(13, 67, 138, 0.87);
+}
+
+#tabla .table{
+    color: aliceblue;
+}
+
+#miform{
+    border: 2px solid black;
+}
+
+
+
+#foto{
+    height: 75px;
+    width: 100px;
+    vertical-align: middle !important;
+}
+
+
+#lacate{
+    color: black !important;
+    padding-bottom: 5px !important;
+}
